@@ -1,7 +1,7 @@
 {
-  "name": "bloc-frontend-project-starter",
-  "version": "0.0.2",
-  "description": "Starter project for the Bloc Frontend Web Development",
+  "name": "bloc-jams-angular",
+  "version": "0.0.1",
+  "description": "Bloc Jams Angular",
   "repository": {
     "type": "git",
     "url": "https://github.com/bloc/bloc-frontend-project-starter"
@@ -10,10 +10,10 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Bloc Inc",
+  "author": "Bloc",
   "license": "ISC",
   "dependencies": {
-    "hapi": "^7.5.0",
+    "hapi": "^7.5.3",
     "path": "^0.4.9"
   },
   "devDependencies": {
@@ -21,9 +21,18 @@
     "es5-shim": "^4.0.1",
     "grunt": "^0.4.5",
     "grunt-cli": "^0.1.13",
-    "grunt-contrib-clean": "~0.6.0",
-    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.5.0",
     "grunt-contrib-watch": "^0.6.1",
     "grunt-hapi": "^0.8.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/bloc/bloc-frontend-project-starter/issues"
+  },
+  "homepage": "https://github.com/bloc/bloc-frontend-project-starter",
+  "keywords": [
+    "js",
+    "angular",
+    "music"
+  ]
 }
